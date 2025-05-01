@@ -1,0 +1,11 @@
+MANIFEST.in
+README.md
+setup.py
+purchase_invoice_supplier_linker/__init__.py
+purchase_invoice_supplier_linker/hooks.py
+purchase_invoice_supplier_linker.egg-info/PKG-INFO
+purchase_invoice_supplier_linker.egg-info/SOURCES.txt
+purchase_invoice_supplier_linker.egg-info/dependency_links.txt
+purchase_invoice_supplier_linker.egg-info/top_level.txt
+purchase_invoice_supplier_linker/config/desktop.py
+purchase_invoice_supplier_linker/custom_script/purchase_invoice_item-supplier_link.js
